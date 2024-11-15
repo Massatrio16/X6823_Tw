@@ -147,7 +147,7 @@ TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 
 ## TWRP-Specific configuration
 TW_THEME := portrait_hdpi
-TW_DEVICE_VERSION := Massatrio16
+TW_DEVICE_VERSION := Infinix_X6823C-Massatrio16
 RECOVERY_SDCARD_ON_DATA := true
 TARGET_USES_MKE2FS := true
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /config/usb_gadget/g1/functions/mass_storage.usb0/lun.%d/file
